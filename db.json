@@ -10,7 +10,7 @@
                   "age": 3,
                   "location": "Bogura",
                   "description": "Healthy deshi goru raised with natural খাবার and proper care.",
-                  "image": "https://images.unsplash.com/photo-1516467508483-a7212febe31a",
+                  "image": "https://images.unsplash.com/photo-1595365691689-6b7b4e1970cf?q=80&w=765&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
                   "category": "Large Animal"
             },
             {
@@ -23,7 +23,7 @@
                   "age": 4,
                   "location": "Sirajganj",
                   "description": "Strong and healthy red deshi cow suitable for Qurbani.",
-                  "image": "https://images.unsplash.com/photo-1500595046743-cd271d694d30",
+                  "image": "https://media.istockphoto.com/id/2029320009/photo/a-domestic-cow-is-sleeping-in-the-nature-field-most-of-the-village-people-in-bangladesh-rear.jpg?s=2048x2048&w=is&k=20&c=vyGBs0Tv8Q2fC-ceGNSOKtzuAjpJge7AUDZMqpX1mLI=",
                   "category": "Large Animal"
             },
             {
@@ -36,7 +36,7 @@
                   "age": 2,
                   "location": "Rajshahi",
                   "description": "Popular Black Bengal khashi with excellent meat quality.",
-                  "image": "https://images.unsplash.com/photo-1524024973431-2ad916746881",
+                  "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Black_Bengal_Goat_00812.JPG",
                   "category": "Medium Animal"
             },
             {
@@ -49,7 +49,7 @@
                   "age": 1.8,
                   "location": "Mymensingh",
                   "description": "Naturally raised deshi goat with good health condition.",
-                  "image": "https://images.unsplash.com/photo-1517849845537-4d257902454a",
+                  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Hausziege_04.jpg/960px-Hausziege_04.jpg",
                   "category": "Medium Animal"
             },
             {
@@ -88,33 +88,33 @@
                   "age": 2.5,
                   "location": "Pabna",
                   "description": "Big healthy white khashi raised in open natural environment.",
-                  "image": "https://images.unsplash.com/photo-1516466723877-e4ec1d736c8a",
+                  "image": "https://media.istockphoto.com/id/180154031/photo/three-goats.jpg?s=2048x2048&w=is&k=20&c=-O_0veBXs5D4h2XT2crrFm6-WcAByzzY-EjRBPha-5w=",
                   "category": "Medium Animal"
             },
             {
                   "id": 8,
-                  "name": "Deshi Hash",
-                  "type": "Duck",
-                  "breed": "Bangladeshi Native Duck",
-                  "price": 3500,
-                  "weight": 3,
-                  "age": 1,
-                  "location": "Barishal",
-                  "description": "Healthy native duck suitable for rural farming.",
-                  "image": "https://images.unsplash.com/photo-1465153690352-10c1b29577f8",
-                  "category": "Small Animal"
+                  "name": "Deshi Uth",
+                  "type": "Camel",
+                  "breed": "Indian Desert Camel",
+                  "price": 85000,
+                  "weight": 300,
+                  "age": 5,
+                  "location": "Rajshahi",
+                  "description": "Healthy deshi camel suitable for transport and farm use in rural areas.",
+                  "image": "https://media.istockphoto.com/id/93212309/photo/brown-camel-with-two-humps-on-a-white-background.jpg?s=2048x2048&w=is&k=20&c=k6dWRGvB2LbFh4GmlrCZIbRf_keJmR0Wup5gW6_-2xg=",
+                  "category": "Large Animal"
             },
             {
                   "id": 9,
-                  "name": "Deshi Murgi",
-                  "type": "Chicken",
-                  "breed": "Native Chicken",
-                  "price": 1800,
-                  "weight": 2,
-                  "age": 1,
-                  "location": "Dinajpur",
-                  "description": "Organic deshi chicken raised in free-range environment.",
-                  "image": "https://images.unsplash.com/photo-1548550023-2bdb3c5beed7",
+                  "name": "Deshi Dumbha",
+                  "type": "Sheep",
+                  "breed": "Bangladeshi Native Sheep",
+                  "price": 12000,
+                  "weight": 35,
+                  "age": 2,
+                  "location": "Rangpur",
+                  "description": "Healthy native sheep suitable for Qurbani and farming.",
+                  "image": "https://media.istockphoto.com/id/1693433403/photo/happy-lamb-small-sheep-face-looking-frank-and-cute-headshot-in-front-view-green-grass-and.jpg?s=2048x2048&w=is&k=20&c=vM1yNw8KrT1EsWHvgdr-L6T2qiPCcr6Xf-9AquVppw8=",
                   "category": "Small Animal"
             },
             {
@@ -127,7 +127,7 @@
                   "age": 5,
                   "location": "Dhaka",
                   "description": "Large farm-raised cow with excellent health and weight.",
-                  "image": "https://images.unsplash.com/photo-1560114928-40f1f1eb26a0",
+                  "image": "https://www.istockphoto.com/photo/side-view-of-holstein-cow-5-years-old-standing-gm106531788-13974129?searchscope=image%2Cfilm",
                   "category": "Large Animal"
             }
       ]
